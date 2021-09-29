@@ -164,7 +164,7 @@ sections:
           width: full
         - name: lorem-ipsum
           label: lorem-ipsum
-          placeholder: lorem-ipsum
+          placeholder: Your text here
           isRequired: false
           width: full
           type: TextareaFormControl
