@@ -152,7 +152,7 @@ sections:
           placeholder: Your home address
           isRequired: true
           width: full
-        - name: Name
+        - name: Eye color
           label: lorem-ipsum
           placeholder: lorem-ipsum
           isRequired: false
