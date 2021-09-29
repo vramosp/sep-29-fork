@@ -163,7 +163,7 @@ sections:
           label: Sign me up to receive updates
           width: full
         - name: lorem-ipsum
-          label: lorem-ipsum
+          label: Tell us more about yourself
           placeholder: Your text here
           isRequired: false
           width: full
