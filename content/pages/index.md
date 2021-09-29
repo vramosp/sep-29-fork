@@ -154,7 +154,7 @@ sections:
           width: full
         - name: Eye color
           label: Eye color
-          placeholder: lorem-ipsum
+          placeholder: Brown
           isRequired: false
           width: full
           type: EmailFormControl
