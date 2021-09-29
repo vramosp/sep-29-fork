@@ -160,12 +160,6 @@ sections:
           label: lorem-ipsum
           placeholder: lorem-ipsum
           isRequired: false
-          width: 1/2
-          type: TextareaFormControl
-        - name: lorem-ipsum
-          label: lorem-ipsum
-          placeholder: lorem-ipsum
-          isRequired: false
           width: full
           type: EmailFormControl
       submitLabel: Send Message
