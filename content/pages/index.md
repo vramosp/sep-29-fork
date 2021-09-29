@@ -162,7 +162,7 @@ sections:
           name: updates
           label: Sign me up to receive updates
           width: full
-        - name: lorem-ipsum
+        - name: description
           label: Tell us more about your project
           placeholder: Your text here
           isRequired: false
