@@ -156,5 +156,11 @@ sections:
           name: updates
           label: Sign me up to receive updates
           width: full
+        - name: lorem-ipsum
+          label: lorem-ipsum
+          placeholder: lorem-ipsum
+          isRequired: false
+          width: full
+          type: TextareaFormControl
       submitLabel: Send Message
 ---
