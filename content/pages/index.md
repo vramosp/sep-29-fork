@@ -115,7 +115,7 @@ sections:
   - type: ContactSection
     variant: variant-b
     colors: colors-h
-    width: full
+    width: wide
     height: tall
     textAlign: left
     title: Join our club
