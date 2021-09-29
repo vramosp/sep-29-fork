@@ -160,7 +160,7 @@ sections:
           label: lorem-ipsum
           placeholder: lorem-ipsum
           isRequired: false
-          width: full
+          width: 1/2
           type: TextareaFormControl
       submitLabel: Send Message
 ---
