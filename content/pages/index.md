@@ -153,7 +153,7 @@ sections:
           isRequired: true
           width: full
         - name: Eye color
-          label: lorem-ipsum
+          label: Brown
           placeholder: lorem-ipsum
           isRequired: false
           width: full
