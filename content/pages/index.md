@@ -74,7 +74,7 @@ sections:
           altText: Isabelle Parks
       - quote: |
           This is a quote
-        name: Johm Doe
+        name: John Doe
         title: lorem-ipsum
         image:
           elementId: ''
