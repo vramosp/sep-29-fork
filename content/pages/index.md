@@ -41,6 +41,15 @@ sections:
         iconPosition: right
         style: secondary
         type: Button
+      - elementId: ''
+        label: lorem-ipsum
+        altText: lorem-ipsum
+        url: '#'
+        showIcon: false
+        icon: arrowLeft
+        iconPosition: right
+        style: secondary
+        type: Button
     feature:
       type: ImageBlock
       url: /images/hero.png
