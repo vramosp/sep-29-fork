@@ -82,6 +82,7 @@ sections:
           caption: lorem-ipsum
           opacity: 100
           type: ImageBlock
+          url: /images/desmond-eagle.jpg
         logo:
           elementId: ''
           altText: lorem-ipsum
