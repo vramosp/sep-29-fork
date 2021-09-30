@@ -90,6 +90,7 @@ sections:
           opacity: 100
           type: ImageBlock
         elementId: lorem-ipsum
+    title: Testimonials
   - type: CtaSection
     variant: variant-b
     colors: colors-c
