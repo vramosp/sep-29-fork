@@ -73,7 +73,7 @@ sections:
           url: /images/isabelle-parks.jpg
           altText: Isabelle Parks
       - quote: |
-          This is a quote
+          "This is a quote, I love the product, I hope they keep up the work"
         name: John Doe
         title: Technical Writer
         image:
