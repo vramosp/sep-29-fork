@@ -75,7 +75,7 @@ sections:
       - quote: |
           This is a quote
         name: John Doe
-        title: lorem-ipsum
+        title: Technical Writer
         image:
           elementId: ''
           altText: lorem-ipsum
