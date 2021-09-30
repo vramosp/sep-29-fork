@@ -108,7 +108,7 @@ sections:
       any layout and any screen.
     actions:
       - type: Button
-        label: Get Started
+        label: Try out
         url: 'https://www.stackbit.com/'
         style: primary
   - type: TextSection
