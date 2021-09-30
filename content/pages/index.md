@@ -50,8 +50,8 @@ sections:
     title: Blog Posts
     textAlign: center
     posts:
-      - content/pages/blog/post-three.md
       - content/pages/blog/post-one.md
+      - content/pages/blog/post-three.md
       - content/pages/blog/post-two.md
   - type: TestimonialsSection
     variant: variant-b
