@@ -91,6 +91,7 @@ sections:
           type: ImageBlock
         elementId: lorem-ipsum
     title: Testimonials
+    subtitle: What aour customers say about us
   - type: CtaSection
     variant: variant-b
     colors: colors-c
