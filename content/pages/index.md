@@ -129,15 +129,6 @@ sections:
         label: Try out
         url: 'https://www.stackbit.com/'
         style: primary
-      - elementId: ''
-        label: lorem-ipsum
-        altText: lorem-ipsum
-        url: '#'
-        showIcon: false
-        icon: arrowLeft
-        iconPosition: right
-        style: secondary
-        type: Button
   - type: TextSection
     colors: colors-f
     width: wide
