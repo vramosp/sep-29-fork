@@ -53,6 +53,25 @@ sections:
       - content/pages/blog/post-three.md
       - content/pages/blog/post-one.md
       - content/pages/blog/post-two.md
+  - type: CtaSection
+    variant: variant-b
+    colors: colors-c
+    width: wide
+    height: short
+    textAlign: left
+    contentAlignHoriz: center
+    contentWidth: medium
+    bottomGap: none
+    topGap: none
+    title: Let's do this
+    text: >-
+      The Stackbit theme is flexible and scalable to every need. It can manage
+      any layout and any screen.
+    actions:
+      - type: Button
+        label: Try out
+        url: 'https://www.stackbit.com/'
+        style: primary
   - type: TestimonialsSection
     variant: variant-b
     colors: colors-h
@@ -92,25 +111,6 @@ sections:
         elementId: lorem-ipsum
     title: Testimonials
     subtitle: What our customers say about us
-  - type: CtaSection
-    variant: variant-b
-    colors: colors-c
-    width: wide
-    height: short
-    textAlign: left
-    contentAlignHoriz: center
-    contentWidth: medium
-    bottomGap: none
-    topGap: none
-    title: Let's do this
-    text: >-
-      The Stackbit theme is flexible and scalable to every need. It can manage
-      any layout and any screen.
-    actions:
-      - type: Button
-        label: Try out
-        url: 'https://www.stackbit.com/'
-        style: primary
   - type: TextSection
     colors: colors-f
     width: wide
